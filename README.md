@@ -1,2 +1,3 @@
-# 250_Days_Of_Machine_Learning
-This repository reflects my 250-day journey of delving into the core concepts and applications of Machine Learning.
+# A 250-Day Exploration in Machine Learning: My Learning Odyssey
+![Machine Learning](https://github.com/Sahash-Rai/250_Days_Of_Machine_Learning/blob/main/Assets/Machine_Learning_image.png)
+
