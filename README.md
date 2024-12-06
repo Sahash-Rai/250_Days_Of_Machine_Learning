@@ -1,5 +1,5 @@
 # A 280-Day Exploration in Machine and Deep Learning: My Learning Odyssey
-![Machine Learning](https://github.com/Sahash-Rai/280_Days_Of_Machine_Learning/blob/main/Assets/Machine_Learning_image.png)
+![Machine Learning](https://github.com/SahashRaee/280_Days_Of_Machine_and_Deep_Learning/blob/main/Assets/Machine_Deep_Learning.png)
 
 
 ## 📂 Resources: 
