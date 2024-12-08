@@ -95,6 +95,31 @@ This section contains official documentation for the libraries and frameworks I 
    - Documentation for Google Cloud's AI tools, including AutoML and TensorFlow integration.
    - Useful for building scalable machine learning models in the cloud.
 
+## 🎥 YouTube Videos
+
+Below is a list of YouTube channels and specific videos that will support and enhance my learning. These videos provide visual explanations and demonstrations of machine learning concepts, which will be valuable during the journey.
+
+### **Machine Learning & Deep Learning Channels**:
+
+| **Channel Name**             | **Link**                                      | **Recommended Videos**                                  |
+|------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| **3Blue1Brown**              | [3Blue1Brown](https://www.youtube.com/c/3blue1brown) | [Neural Networks](https://www.youtube.com/watch?v=aircAruA6Nw), [Backpropagation in Neural Networks](https://www.youtube.com/watch?v=Ilg3gGewQ5U) |
+| **StatQuest with Josh Starmer** | [StatQuest](https://www.youtube.com/c/joshstarmer) | [Supervised vs Unsupervised Learning](https://www.youtube.com/watch?v=Fc0z6v5tPp0), [Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) |
+| **sentdex**                  | [sentdex](https://www.youtube.com/c/sentdex)   | [Python Machine Learning Tutorials](https://www.youtube.com/watch?v=7eh4d6sabA0), [Deep Learning with Keras](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
+| **Code Bullet**              | [Code Bullet](https://www.youtube.com/c/CodeBullet) | [Neural Networks to Play Flappy Bird](https://www.youtube.com/watch?v=FgfzZcfQ0J4) |
+| **Deeplearning.ai**          | [Deeplearning.ai](https://www.youtube.com/c/Deeplearningai) | [Introduction to Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg), [Neural Networks Specialization](https://www.youtube.com/watch?v=cKxRvEZd3Mw) |
+
+### **AI/Cloud Services**:
+
+| **Channel Name**             | **Link**                                      | **Recommended Videos**                                  |
+|------------------------------|-----------------------------------------------|---------------------------------------------------------|
+| **Google Cloud Platform**     | [Google Cloud Platform](https://www.youtube.com/c/googlecloudplatform) | [AI and ML on Google Cloud](https://www.youtube.com/watch?v=2cQtaz3vNbg), [Building AI Models with TensorFlow](https://www.youtube.com/watch?v=9N_hisgEDO0) |
+| **AWS Machine Learning**      | [AWS Machine Learning](https://www.youtube.com/c/AWSMachineLearning) | [Introduction to Machine Learning on AWS](https://www.youtube.com/watch?v=BeYjqwxbHlE), [Using SageMaker for ML Training](https://www.youtube.com/watch?v=K1L6JtR7Ykc) |
+
+
+
+
+
 
 # Day 1: Supervised Learning - Linear Regression
 
