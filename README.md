@@ -20,3 +20,21 @@
 | Days 181–220  | [Convolutional Neural Networks at Scale](https://arxiv.org/abs/1605.07146)                    | Advanced CNN architectures               |
 | Days 221–260  | [A Survey on Deep Learning](https://arxiv.org/abs/2003.03123)                                | Deep learning survey, advanced topics    |
 | Days 261–280  | [AlphaFold: Using AI for scientific discovery](https://www.nature.com/articles/s41592-021-01078-x) | Deep learning in bioinformatics, innovations in AI |
+
+# Day 1: Supervised Learning - Linear Regression
+
+## Topics Covered:
+- Introduction to Supervised Learning
+- Linear Regression: Concept and Application
+- Understanding the dataset and model fitting
+- Evaluating model performance using Mean Squared Error (MSE) and R-squared
+
+## Key Learnings:
+- **Supervised Learning** is a type of machine learning where the model learns from labeled data to make predictions or classifications.
+- **Linear Regression** is a supervised learning algorithm used for predicting continuous values based on input features.
+- We used **Scikit-learn**'s Linear Regression model to predict house prices based on the size of the house.
+- We evaluated the model using **Mean Squared Error (MSE)** and **R-squared** metrics to check how well the model performs.
+
+## Code Implementation 💻:
+The following code implements **Linear Regression** on a simple dataset of house sizes and prices.
+
