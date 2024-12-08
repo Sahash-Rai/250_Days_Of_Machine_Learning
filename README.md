@@ -101,7 +101,7 @@ Below is a list of YouTube channels and specific videos that will support and en
 
 ### **Machine Learning & Deep Learning Channels**:
 
-| **Channel Name**             | **Link**                                      | **Recommended Videos**                                  |
+| **Channel Name**             | **Link**                                      | **Videos**                                  |
 |------------------------------|-----------------------------------------------|---------------------------------------------------------|
 | **3Blue1Brown**              | [3Blue1Brown](https://www.youtube.com/c/3blue1brown) | [Neural Networks](https://www.youtube.com/watch?v=aircAruA6Nw), [Backpropagation in Neural Networks](https://www.youtube.com/watch?v=Ilg3gGewQ5U) |
 | **StatQuest with Josh Starmer** | [StatQuest](https://www.youtube.com/c/joshstarmer) | [Supervised vs Unsupervised Learning](https://www.youtube.com/watch?v=Fc0z6v5tPp0), [Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) |
