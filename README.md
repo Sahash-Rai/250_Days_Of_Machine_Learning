@@ -38,3 +38,6 @@
 ## Code Implementation 💻:
 The following code implements **Linear Regression** on a simple dataset of house sizes and prices.
 
+
+![Code_Day_1](https://github.com/SahashRaee/280_Days_Of_Machine_and_Deep_Learning/blob/main/Assets/Codes_Snapshot/code_day_1.png)
+
