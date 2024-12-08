@@ -55,7 +55,7 @@ Below is a list of books that will guide me through this journey, divided into c
 
 ## 📄 Documentation
 
-This section contains official documentation for the libraries and frameworks we will use throughout our machine learning journey.
+This section contains official documentation for the libraries and frameworks I will use throughout my machine learning journey.
 
 ### **Machine Learning Libraries**:
 1. **[Scikit-learn Documentation](https://scikit-learn.org/stable/)**
