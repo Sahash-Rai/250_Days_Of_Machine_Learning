@@ -21,6 +21,81 @@
 | Days 221–260  | [A Survey on Deep Learning](https://arxiv.org/abs/2003.03123)                                | Deep learning survey, advanced topics    |
 | Days 261–280  | [AlphaFold: Using AI for scientific discovery](https://www.nature.com/articles/s41592-021-01078-x) | Deep learning in bioinformatics, innovations in AI |
 
+## 📚 Books
+
+Below is a list of books that will guide me through this journey, divided into categories based on their relevance to the topics I will cover.
+
+### **Core Books**:
+1. **[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)**
+   - A hands-on guide to learning machine learning with practical examples.
+   - Focus on Scikit-Learn, TensorFlow, and Keras for building ML models.
+
+2. **[Machine Learning from Scratch](https://sebastianraschka.com/books.html)**
+   - Focuses on understanding machine learning algorithms from scratch.
+   - Provides clear explanations of machine learning concepts with code examples.
+
+### **Advanced Books**:
+1. **[Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732)** by Christopher Bishop
+   - Deep dive into pattern recognition theory and machine learning models.
+   - Comprehensive mathematical coverage.
+
+2. **[The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)** by Trevor Hastie, Robert Tibshirani, and Jerome Friedman
+   - A thorough book for advanced ML algorithms and statistical methods.
+   - Heavy on the mathematical theory behind machine learning.
+
+### **Specialized Books**:
+1. **[Hands-On Unsupervised Learning with Python](https://www.packtpub.com/product/hands-on-unsupervised-learning-with-python/9781788621755)**
+   - Focus on unsupervised learning techniques like clustering, dimensionality reduction, and anomaly detection.
+
+2. **[Data Science from Scratch](https://www.oreilly.com/library/view/data-science-from/9781492041139/)** by Joel Grus
+   - Introduction to data science fundamentals and practical machine learning implementation from scratch.
+
+3. **[Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)** by Andreas C. Müller & Sarah Guido
+   - A comprehensive guide to machine learning using Python, particularly with Scikit-Learn.
+
+## 📄 Documentation
+
+This section contains official documentation for the libraries and frameworks we will use throughout our machine learning journey.
+
+### **Machine Learning Libraries**:
+1. **[Scikit-learn Documentation](https://scikit-learn.org/stable/)**
+   - Official documentation for Scikit-learn, a library used for building machine learning models.
+   - Includes detailed guides on algorithms, preprocessing, and model evaluation.
+
+2. **[TensorFlow Documentation](https://www.tensorflow.org/learn)**
+   - Official documentation for TensorFlow, one of the most popular frameworks for deep learning.
+   - Covers everything from basic to advanced machine learning and deep learning topics.
+
+3. **[Keras Documentation](https://keras.io/)**
+   - Keras is a high-level API built on top of TensorFlow for building deep learning models.
+   - Documentation includes tutorials and guides for building neural networks.
+
+4. **[PyTorch Documentation](https://pytorch.org/docs/stable/)**
+   - Official documentation for PyTorch, a framework commonly used in research for deep learning.
+   - Provides detailed examples for working with neural networks.
+
+### **Data Science Libraries**:
+1. **[NumPy Documentation](https://numpy.org/doc/stable/)**
+   - Essential for working with numerical data, providing support for arrays, matrices, and more.
+
+2. **[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)**
+   - Essential for data manipulation and analysis, including reading/writing data and data transformations.
+
+3. **[Matplotlib Documentation](https://matplotlib.org/stable/contents.html)**
+   - A library for creating static, animated, and interactive visualizations in Python.
+
+4. **[Seaborn Documentation](https://seaborn.pydata.org/)**
+   - A data visualization library based on Matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+
+### **Deep Learning and Cloud Libraries**:
+1. **[Fast.ai Documentation](https://docs.fast.ai/)**
+   - Fast.ai is a deep learning library built on top of PyTorch. It simplifies deep learning tasks and enables fast experimentation.
+
+2. **[Google Cloud AI Documentation](https://cloud.google.com/products/ai)**
+   - Documentation for Google Cloud's AI tools, including AutoML and TensorFlow integration.
+   - Useful for building scalable machine learning models in the cloud.
+
+
 # Day 1: Supervised Learning - Linear Regression
 
 ## Topics Covered:
