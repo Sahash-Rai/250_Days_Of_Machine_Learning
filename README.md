@@ -132,8 +132,8 @@ Below is a list of YouTube channels and specific videos that will support and en
 ## Key Learnings:
 - **Supervised Learning** is a type of machine learning where the model learns from labeled data to make predictions or classifications.
 - **Linear Regression** is a supervised learning algorithm used for predicting continuous values based on input features.
-- We used **Scikit-learn**'s Linear Regression model to predict house prices based on the size of the house.
-- We evaluated the model using **Mean Squared Error (MSE)** and **R-squared** metrics to check how well the model performs.
+- I used **Scikit-learn**'s Linear Regression model to predict house prices based on the size of the house.
+- I evaluated the model using **Mean Squared Error (MSE)** and **R-squared** metrics to check how well the model performs.
 
 ## Code Implementation 💻:
 The following code implements **Linear Regression** on a simple dataset of house sizes and prices.
