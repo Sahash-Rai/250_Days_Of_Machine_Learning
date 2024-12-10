@@ -109,15 +109,6 @@ Below is a list of YouTube channels and specific videos that will support and en
 | **Code Bullet**              | [Code Bullet](https://www.youtube.com/c/CodeBullet) | [Neural Networks to Play Flappy Bird](https://www.youtube.com/watch?v=FgfzZcfQ0J4) |
 | **Deeplearning.ai**          | [Deeplearning.ai](https://www.youtube.com/c/Deeplearningai) | [Introduction to Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg), [Neural Networks Specialization](https://www.youtube.com/watch?v=cKxRvEZd3Mw) |
 
-### **AI/Cloud Services**:
-
-| **Channel Name**             | **Link**                                      | **Recommended Videos**                                  |
-|------------------------------|-----------------------------------------------|---------------------------------------------------------|
-| **Google Cloud Platform**     | [Google Cloud Platform](https://www.youtube.com/c/googlecloudplatform) | [AI and ML on Google Cloud](https://www.youtube.com/watch?v=2cQtaz3vNbg), [Building AI Models with TensorFlow](https://www.youtube.com/watch?v=9N_hisgEDO0) |
-| **AWS Machine Learning**      | [AWS Machine Learning](https://www.youtube.com/c/AWSMachineLearning) | [Introduction to Machine Learning on AWS](https://www.youtube.com/watch?v=BeYjqwxbHlE), [Using SageMaker for ML Training](https://www.youtube.com/watch?v=K1L6JtR7Ykc) |
-
-
-
 
 
 
