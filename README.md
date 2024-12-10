@@ -163,6 +163,6 @@ The following code implements Linear Regression on a simple dataset of house siz
 - Implemented Logistic Regression, KNN, and SVM using Scikit-learn.  
 - Evaluated models using metrics like Accuracy, Precision, Recall, and F1-score.  
 
-![Code Day 2 ](assets/day3_classification_code.png)  
+![Code Day 2 ](https://github.com/SahashRaee/280_Days_Of_Machine_and_Deep_Learning/blob/main/Assets/Codes_Snapshot/code_day_2.png)  
 
 
