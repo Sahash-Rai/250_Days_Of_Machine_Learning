@@ -106,7 +106,6 @@ Below is a list of YouTube channels and specific videos that will support and en
 | **3Blue1Brown**              | [3Blue1Brown](https://www.youtube.com/c/3blue1brown) | [Neural Networks](https://www.youtube.com/watch?v=aircAruA6Nw), [Backpropagation in Neural Networks](https://www.youtube.com/watch?v=Ilg3gGewQ5U) |
 | **StatQuest with Josh Starmer** | [StatQuest](https://www.youtube.com/c/joshstarmer) | [Supervised vs Unsupervised Learning](https://www.youtube.com/watch?v=Fc0z6v5tPp0), [Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk) |
 | **sentdex**                  | [sentdex](https://www.youtube.com/c/sentdex)   | [Python Machine Learning Tutorials](https://www.youtube.com/watch?v=7eh4d6sabA0), [Deep Learning with Keras](https://www.youtube.com/watch?v=tPYj3fFJGjk) |
-| **Code Bullet**              | [Code Bullet](https://www.youtube.com/c/CodeBullet) | [Neural Networks to Play Flappy Bird](https://www.youtube.com/watch?v=FgfzZcfQ0J4) |
 | **Deeplearning.ai**          | [Deeplearning.ai](https://www.youtube.com/c/Deeplearningai) | [Introduction to Deep Learning](https://www.youtube.com/watch?v=CS4cs9xVecg), [Neural Networks Specialization](https://www.youtube.com/watch?v=cKxRvEZd3Mw) |
 
 
