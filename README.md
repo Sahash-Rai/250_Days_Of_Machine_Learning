@@ -141,3 +141,28 @@ The following code implements Linear Regression on a simple dataset of house siz
 
 ![Code_Day_1](https://github.com/SahashRaee/280_Days_Of_Machine_and_Deep_Learning/blob/main/Assets/Codes_Snapshot/code_day_1.png)
 
+---
+## Day 3: Classification Algorithms  
+
+### Topics Covered  
+- Understanding the classification problem and its difference from regression.  
+- Logistic Regression: Concept, application, and working with binary outputs.  
+- K-Nearest Neighbors (KNN): Intuitive algorithm based on proximity.  
+- Support Vector Machines (SVM): A robust technique for linear and non-linear classification.  
+- Evaluation Metrics: Accuracy, Precision, Recall, F1-score, and Confusion Matrix.  
+
+### Key Learnings  
+- Classification algorithms categorize data into predefined classes.  
+- Logistic Regression is used for binary classification problems using a probabilistic approach.  
+- KNN is simple yet effective, relying on the majority class of the nearest neighbors.  
+- SVMs maximize the margin between classes to ensure a robust decision boundary.  
+- Evaluation metrics help in understanding a model's performance comprehensively.  
+
+### Code Implementation 💻  
+- Explored classification using the Iris Dataset.  
+- Implemented Logistic Regression, KNN, and SVM using Scikit-learn.  
+- Evaluated models using metrics like Accuracy, Precision, Recall, and F1-score.  
+
+![Code Day 2 ](assets/day3_classification_code.png)  
+
+
