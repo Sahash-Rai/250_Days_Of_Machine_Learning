@@ -130,13 +130,13 @@ Below is a list of YouTube channels and specific videos that will support and en
 - Evaluating model performance using Mean Squared Error (MSE) and R-squared
 
 ## Key Learnings:
-- **Supervised Learning** is a type of machine learning where the model learns from labeled data to make predictions or classifications.
-- **Linear Regression** is a supervised learning algorithm used for predicting continuous values based on input features.
-- I used **Scikit-learn**'s Linear Regression model to predict house prices based on the size of the house.
-- I evaluated the model using **Mean Squared Error (MSE)** and **R-squared** metrics to check how well the model performs.
+- Supervised Learning is a type of machine learning where the model learns from labeled data to make predictions or classifications.
+- Linear Regression is a supervised learning algorithm used for predicting continuous values based on input features.
+- I used Scikit-learn Linear Regression model to predict house prices based on the size of the house.
+- I evaluated the model using Mean Squared Error (MSE) and R-squared metrics to check how well the model performs.
 
 ## Code Implementation 💻:
-The following code implements **Linear Regression** on a simple dataset of house sizes and prices.
+The following code implements Linear Regression on a simple dataset of house sizes and prices.
 
 
 ![Code_Day_1](https://github.com/SahashRaee/280_Days_Of_Machine_and_Deep_Learning/blob/main/Assets/Codes_Snapshot/code_day_1.png)
